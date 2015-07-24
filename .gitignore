@@ -1,0 +1,18 @@
+# OSX
+.DS_Store
+
+# Editor Files
+/.idea/
+
+# Temp Files
+*.tmp
+
+# Auto Generated Files
+*.map
+
+# Dependencies
+/**/node_modules/
+/**/jspm_packages/
+
+# GitKeep - allow empty folders to be committed
+!.gitkeep
