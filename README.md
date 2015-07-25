@@ -1,6 +1,8 @@
 # UI Engineering Questions
 
-Questions for UI engineers and Front-End developers.
+Questions for UI engineers and Front-End developers. 
+
+For more details see the related Medium article [UI Engineering Questions](https://medium.com/@johanstn/initiating-ui-engineering-conversations-946906b4c710), a seed list of knowledge and skills required to bring great design to life. 
 
 ## Table of Contents
 
@@ -18,8 +20,6 @@ Questions for UI engineers and Front-End developers.
 12. [Design](#design)
 13. [Person](#person)
 14. [Contributing](#contributing)
-
-For more details see the related Medium article [UI Engineering Questions](https://medium.com/@johanstn/initiating-ui-engineering-conversations-946906b4c710), a seed list of knowledge and skills required to bring great design to life. 
 
 ## HTML
 
