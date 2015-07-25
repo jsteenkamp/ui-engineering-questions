@@ -105,6 +105,8 @@ For more details see the related Medium article [UI Engineering Questions](https
 - When would you use $apply and $destroy (Angular)
 - Why use directives? (Angular) Link Fn vs Controller? Isolate scope?
 - Why do companies like Google, Facebook, Netflix release their technology as OSS?
+- React is fast - discuss
+- 2-way data binding is great - discuss
 
 ## APIs
 
