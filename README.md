@@ -305,6 +305,8 @@ Questions for UI engineers and Front-End developers.
 
   document.querySelector('body').appendChild(list);
   ```
+  
+  [Gist with alternative solutions](https://gist.github.com/jsteenkamp/938ca16bc4cd2969a5c5)
 
 ## Libraries
 
